@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Morph",
+	"category" : "HaloKit",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"target",
+		"positionOffset"
+	],
+	"name" : "HKSimpleHaloMorph",
+	"type" : "normal"
+}
